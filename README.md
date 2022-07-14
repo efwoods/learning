@@ -1,1 +1,1 @@
-Repository of topics I am currently learning
+Repository of topics I am currently studying.
