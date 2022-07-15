@@ -1,3 +1,6 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/efwoods/java.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/efwoods/docker.git
