@@ -4,3 +4,6 @@
 [submodule "docker"]
 	path = docker
 	url = https://github.com/efwoods/docker.git
+[submodule "soft-skills"]
+	path = soft-skills
+	url = https://github.com/efwoods/soft-skills.git
