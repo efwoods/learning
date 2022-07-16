@@ -7,3 +7,6 @@
 [submodule "soft-skills"]
 	path = soft-skills
 	url = https://github.com/efwoods/soft-skills.git
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/efwoods/tensorflow.git
