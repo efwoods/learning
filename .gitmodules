@@ -10,3 +10,6 @@
 [submodule "tensorflow"]
 	path = tensorflow
 	url = https://github.com/efwoods/tensorflow.git
+[submodule "goals"]
+	path = goals
+	url = https://github.com/efwoods/goals.git
