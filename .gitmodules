@@ -13,3 +13,6 @@
 [submodule "goals"]
 	path = goals
 	url = https://github.com/efwoods/goals.git
+[submodule "aws"]
+	path = aws
+	url = https://github.com/efwoods/aws.git
