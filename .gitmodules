@@ -16,3 +16,6 @@
 [submodule "aws"]
 	path = aws
 	url = https://github.com/efwoods/aws.git
+[submodule "react"]
+	path = react
+	url = https://github.com/efwoods/react.git
