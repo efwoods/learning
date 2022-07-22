@@ -19,3 +19,6 @@
 [submodule "react"]
 	path = react
 	url = https://github.com/efwoods/react.git
+[submodule "html"]
+	path = html
+	url = https://github.com/efwoods/html.git
