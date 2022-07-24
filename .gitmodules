@@ -22,3 +22,6 @@
 [submodule "html"]
 	path = html
 	url = https://github.com/efwoods/html.git
+[submodule "json-server"]
+	path = json-server
+	url = https://github.com/efwoods/json-server.git
