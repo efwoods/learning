@@ -25,3 +25,6 @@
 [submodule "json-server"]
 	path = json-server
 	url = https://github.com/efwoods/json-server.git
+[submodule "vue"]
+	path = vue
+	url = https://github.com/efwoods/vue.git
