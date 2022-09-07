@@ -28,3 +28,6 @@
 [submodule "vue"]
 	path = vue
 	url = https://github.com/efwoods/vue.git
+[submodule "python"]
+	path = python
+	url = https://github.com/efwoods/python.git
